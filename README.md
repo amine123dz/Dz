@@ -21,7 +21,7 @@ amine
  </p>
 <h1>Hi!</h1>
 chat 
-<title>᭓͜͡Λϻ𝐢ηє✓𝕯𝖟᭓͜͡⁦🇩🇿⁩࿐</title> 
+᭓͜͡Λϻ𝐢ηє✓𝕯𝖟᭓͜͡⁦🇩🇿⁩࿐
 <body>
 <img src="myPic.jpg" alt="1 "width="100px"
 height="50px" />
