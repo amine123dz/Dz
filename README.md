@@ -1,5 +1,5 @@
 <html>
-<body dir='rtl'>
+<body dir='ltr'>
 <a class="rYDfvb" href="/?hl=en-DZ&amp;sa=X&amp;ved=0ahUKEwjwyo751a-AAxW5TaQEHScNDDMQnZcCCAU" role="menuitem"><img alt="" class="EuAkLc" src="https://www.gstatic.com/navigationdrawer/home_icon.svg"></a>
 <a class="rYDfvb" href="/?hl=en-DZ&amp;sa=X&amp;ved=0ahUKEwjwyo751a-AAxW5TaQEHScNDDMQnZcCCAU" role="menuitem"><img alt="" class="EuAkLc" src="https://www.gstatic.com/navigationdrawer/home_icon.svg"></a>
 <a class="rYDfvb" href="/?hl=en-DZ&amp;sa=X&amp;ved=0ahUKEwjwyo751a-AAxW5TaQEHScNDDMQnZcCCAU" role="menuitem"><img alt="" class="EuAkLc" src="https://www.gstatic.com/navigationdrawer/home_icon.svg"></a>
@@ -110,7 +110,7 @@ tragchat
 <hr/>
  </body>
 
-<body dir='rtl'/>
+<body dir='ltr'/>
 </html>
 
 
