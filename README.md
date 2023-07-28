@@ -7,9 +7,7 @@
 <hr/>
 <head>
 <body>
-<title>
  My first HTML page
-<</title>
 <h1>
 <p align="center">
 <i>
@@ -25,11 +23,6 @@ amine
 chat 
 <title>᭓͜͡Λϻ𝐢ηє✓𝕯𝖟᭓͜͡⁦🇩🇿⁩࿐</title> 
 <body>
-
- <img src="myPic.jpg" />
-
-<img src="myPic2.gif" />
-
 <img src="myPic.jpg" alt="1 "width="100px"
 height="50px" />
 <img src="mypic.jpg" alt="2
@@ -50,9 +43,7 @@ height="50x" />
 <-- تم بنجاح --!>
  <br/>
 ارحبوا تراحيب المطر ❤️
-<title>
 مرحبا 
- </title> 
 <body dir='rtl'>
 <h1>
 <p align="center">
@@ -77,9 +68,7 @@ tragchat
 <hr />
 </html>
 <!-- comment -->
-
-مربا بك هنا <title>
-</title>
+مربا بك هنا
 <body dir='rtl'>
 <-- اكيف حالك</p><hr/>
 <-- حمد لله بخير  --!> 
@@ -91,17 +80,11 @@ trag
 <p align="center">
 tragchat 
 </p>
-<title>
 مرحبا 
- </title> 
 <body dir='rtl'>
 َتراق شات 
 </body>
-<title>
-
 ᭓͜͡Λϻ𝐢ηє✓𝕯𝖟᭓͜͡⁦🇩🇿⁩࿐
-
- </title>
 <body dir='rtl'>
 <hr />
 <p> room</p>
@@ -114,10 +97,7 @@ tragchat
 <p> ID</p>
 <hr />
 <!-- comment -->
-
-مربا بك هنا <title>
-</title>
-
+مربا بك هنا
 <body dir='rtl'>
 <-- اكيف حالك</p><hr/>
 <-- حمد لله بخير  --!> 
@@ -125,13 +105,9 @@ tragchat
 <hr />
 <body>
 <head>
-<title>
 وصف الرابط 
- </title>
  </head>
-
  <body>
-
  <a href="http://www.somesite.com/files/file1.zip">
 
 </a>
