@@ -110,7 +110,7 @@ tragchat
 <hr/>
  </body>
 
-
+<body dir='rtl'/>
 </html>
 
 
