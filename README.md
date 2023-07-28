@@ -1,5 +1,5 @@
 <html>
-
+<body dir='rtl'>
 <a class="rYDfvb" href="/?hl=en-DZ&amp;sa=X&amp;ved=0ahUKEwjwyo751a-AAxW5TaQEHScNDDMQnZcCCAU" role="menuitem"><img alt="" class="EuAkLc" src="https://www.gstatic.com/navigationdrawer/home_icon.svg"></a>
 <a class="rYDfvb" href="/?hl=en-DZ&amp;sa=X&amp;ved=0ahUKEwjwyo751a-AAxW5TaQEHScNDDMQnZcCCAU" role="menuitem"><img alt="" class="EuAkLc" src="https://www.gstatic.com/navigationdrawer/home_icon.svg"></a>
 <a class="rYDfvb" href="/?hl=en-DZ&amp;sa=X&amp;ved=0ahUKEwjwyo751a-AAxW5TaQEHScNDDMQnZcCCAU" role="menuitem"><img alt="" class="EuAkLc" src="https://www.gstatic.com/navigationdrawer/home_icon.svg"></a>
@@ -42,7 +42,6 @@ height="50x" />
  <br/>
 ارحبوا تراحيب المطر ❤️
 مرحبا 
-<body dir='rtl'>
 <h1>
 <p align="center">
 tragchat 
