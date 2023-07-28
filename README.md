@@ -44,7 +44,7 @@ height="50x" />
  <br/>
 ارحبوا تراحيب المطر ❤️
 مرحبا 
-<body dir='rtl'>
+<body dir='ltr'>
 <h1>
 <p align="center">
 tragchat 
@@ -55,7 +55,7 @@ tragchat
 <b>مرحبا</b>
 <i/>
 </h2>
-<body dir='rtl'>
+<body dir='ltr'>
 <hr />
 <p> room</p>
 
@@ -69,7 +69,7 @@ tragchat
 </html>
 <!-- comment -->
 مربا بك هنا
-<body dir='rtl'>
+<body dir='ltr'>
 <-- اكيف حالك</p><hr/>
 <-- حمد لله بخير  --!> 
 <hr />
@@ -81,11 +81,11 @@ trag
 tragchat 
 </p>
 مرحبا 
-<body dir='rtl'>
+<body dir='ltr'>
 َتراق شات 
 </body>
 ᭓͜͡Λϻ𝐢ηє✓𝕯𝖟᭓͜͡⁦🇩🇿⁩࿐
-<body dir='rtl'>
+<body dir='ltr'>
 <hr />
 <p> room</p>
 
@@ -98,7 +98,7 @@ tragchat
 <hr />
 <!-- comment -->
 مربا بك هنا
-<body dir='rtl'>
+<body dir='ltr'>
 <-- اكيف حالك</p><hr/>
 <-- حمد لله بخير  --!> 
 </body>
